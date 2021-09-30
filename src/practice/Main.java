@@ -12,5 +12,6 @@ public class Main {
         System.out.println("hello git!   ");
         System.out.println("hello git!   ");
         System.out.println("master commits");
+        System.out.println("hot-fix commits");
     }
 }
